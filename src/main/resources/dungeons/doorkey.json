@@ -1,0 +1,29 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 15,
+            "y": 9,
+            "type": "door",
+            "key": 1
+        },
+        {
+            "x": 11,
+            "y": 10,
+            "type": "key",
+            "key": 1
+        },
+        {
+            "x": 18,
+            "y": 16,
+            "type": "exit"
+        }
+    ],
+    "goal-condition": {
+        "goal": "exit"
+    }
+}
